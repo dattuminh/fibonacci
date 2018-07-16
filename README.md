@@ -2,6 +2,7 @@ Fibonacci
 =========
 Fibonaaci sequence contains a series of numbers where the nth digit is calculated by the sum of (n-2)th and (n-1)th.
 
+
 This program deploys four functions for Fibonacci calculation including Vanilla Recursive, Tail Recursive, Top-down Dynamic, and Bottom-up Dynamic (iterative).
 
 
@@ -23,7 +24,7 @@ Apply the functions run_to_failure(...) and time(...) to the four different algo
 
 
 
-//////////////////////////// Results ////////////////////////////
+//////////////////// Results //////////////////////
 
  Input n needed to make function take over 5 seconds:
  
